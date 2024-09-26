@@ -1,5 +1,6 @@
 # FlipMart Sales Dashboard
-![Screenshot 2024-09-26 001853](https://github.com/user-attachments/assets/d4b34feb-a765-4e14-88a4-91928f1deb85)
+![Screenshot 2024-09-26 115359](https://github.com/user-attachments/assets/43f3d4c5-898c-4c56-8192-6352819e6b64)
+
 
 
 This project is a **FlipMart Sales Dashboard** created using **KPIs (Key Performance Indicators)** to track sales data, visualize trends, and provide actionable insights for decision-makers. The dashboard includes various metrics, charts, and tables to help understand the overall performance.
@@ -29,4 +30,5 @@ If you'd like to contribute to this project, feel free to create a pull request.
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-![Screenshot 2024-09-26 001853](https://github.com/user-attachments/assets/e1021da4-5454-452c-9ef7-2d0d0112f4fd)
+![Screenshot 2024-09-26 115359](https://github.com/user-attachments/assets/f35b94e6-938f-49e9-a1b3-fe938f71ebe0)
+
